@@ -1,5 +1,3 @@
-### ✅ `frontend/README.md`
-
 # 🌍 OrbitLab Frontend – TakeMe2Space
 
 ## 📌 Task Overview
